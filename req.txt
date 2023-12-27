@@ -1,0 +1,5 @@
+Traverse all directories
+Find files
+Compare them for duplicates
+if everything is exactly matching
+	delete them
